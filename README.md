@@ -16,7 +16,7 @@ My solution code and interactive demo can be found [here](https://codesandbox.io
 
 ## Screenshot
 
-![React Typescript Rock Paper Scissors](./../Screenshots/ReactTSRockPaperScissors.JPG.JPG?raw=true "React Typescript Rock Paper Scissors")
+![React Typescript Rock Paper Scissors](./../Screenshots/ReactTSRockPaperScissors.JPG?raw=true "React Typescript Rock Paper Scissors")
 
 ## Setup
 
