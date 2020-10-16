@@ -18,16 +18,16 @@ My solution code and interactive demo can be found [here](https://codesandbox.io
 
 ![React Typescript Rock Paper Scissors](./../Screenshots/ReactTSRockPaperScissors.JPG?raw=true "React Typescript Rock Paper Scissors")
 
-## Setup
+# Setup
 
 1. Clone repository
 2. `npm install`
 
-## Running
+# Running
 
 - `npm start` runs application at http://localhost:3000
 
-## Testing
+# Testing
 
 - `npm test` to run unit tests
 
