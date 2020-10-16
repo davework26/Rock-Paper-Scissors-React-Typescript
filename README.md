@@ -12,7 +12,7 @@ These are the changes that I made to the Rock, Paper, Scissors game:
 Initial code can be found [here](https://github.com/ovotech/react-rps-boilerplate).
 
 # My Solution
-My solution code and interactive demo can be found [here](https://codesandbox.io/s/wispy-bird-26xuy?file=/src/index.css).
+My solution code and interactive demo can be found [here](https://codesandbox.io/s/rock-paper-scissors-26xuy).
 
 ## Screenshot
 
